@@ -1,6 +1,6 @@
 {
   "name": "nestjs-multer-extended-s3",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "Extended MulterModule for NestJS",
   "author": "Geranjian <geranjian@gmail.com>",
   "license": "MIT",
